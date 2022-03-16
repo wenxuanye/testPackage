@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 setuptools.setup(
-  name="example-pkg-WENXUANYE",
+  name="test_package_wenxuanye",
   version="0.0.1",
   author="WENXUAN YE",
   author_email="lehighwenxuanye@gmail.com",
